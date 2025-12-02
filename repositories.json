@@ -252,14 +252,14 @@
     ]
   },
   {
-  "url": "https://github.com/forcedotcom/sfdx-scanner",
-  "packages": [
-    {
-      "name": "@salesforce/sfdx-scanner",
-      "type": "plugin"
-    }
-  ]
-},
+    "url": "https://github.com/forcedotcom/code-analyzer",
+    "packages": [
+      {
+        "name": "@salesforce/plugin-code-analyzer",
+        "type": "plugin"
+      }
+    ]
+  },
   {
     "url": "https://github.com/forcedotcom/change-case-management",
     "packages": [
